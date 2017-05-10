@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hotelaria</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="acao_pesquisar">Pesquisar</string>
+    <string name="acao_novo">Novo</string>
+    <string name="acao_info">Info</string>
+</resources>
